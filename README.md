@@ -1,4 +1,4 @@
-# Program-analysis-Ontlogy
+# Program-analysis using C99 Ontlogy
 
 To study the scope of Program analysis of a sample C program 
 using a C99 ontology which had 178 concepts and 68 properties in T-Box. 
